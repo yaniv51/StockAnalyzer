@@ -1,0 +1,96 @@
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\Miscellanies\stockList.txt
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\SRC\charts\jquery.sparkline.js
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\SRC\Web_logs.zip
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\Miscellanies\WinSCP.exe
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\SRC\charts\template.html
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\SRC\charts\run.bat
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\Ionic.Zip.dll
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\WinSCPnet.dll
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\YahooStockAPI.exe
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\YahooStockAPI.pdb
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\LinuxConnector.csprojResolveAssemblyReference.cache
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AnalyzeConfiguration.resources
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GetItemForm.resources
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OutputForm.resources
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UploadFiles.resources
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\LinuxConnector.csproj.GenerateResource.Cache
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yaniv\Desktop\304814072_EX4\WindowsFormsApplication2\bin\Debug\SRC\solution.zip
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\Miscellanies\stockList.txt
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\SRC\charts\jquery.sparkline.js
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\SRC\Web_logs.zip
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\Miscellanies\WinSCP.exe
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\SRC\charts\template.html
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\SRC\charts\run.bat
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\SRC\solution.zip
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\SRC\solution1.zip
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\Ionic.Zip.dll
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\WinSCPnet.dll
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\YahooStockAPI.exe
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\bin\Debug\YahooStockAPI.pdb
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\LinuxConnector.csprojResolveAssemblyReference.cache
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AnalyzeConfiguration.resources
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GetItemForm.resources
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OutputForm.resources
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UploadFiles.resources
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\LinuxConnector.csproj.GenerateResource.Cache
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Yaniv\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yaniv\Desktop\FinalProjectBigData - Windows\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\Miscellanies\stockList.txt
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\SRC\charts\jquery.sparkline.js
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\Miscellanies\WinSCP.exe
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\SRC\charts\template.html
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\SRC\charts\run.bat
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\SRC\solution.zip
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\Ionic.Zip.dll
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\WinSCPnet.dll
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\YahooStockAPI.exe
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\bin\Debug\YahooStockAPI.pdb
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\LinuxConnector.csprojResolveAssemblyReference.cache
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AnalyzeConfiguration.resources
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GetItemForm.resources
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OutputForm.resources
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UploadFiles.resources
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\LinuxConnector.csproj.GenerateResource.Cache
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ostermanya.CS\Desktop\Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\Miscellanies\stockList.txt
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\SRC\charts\jquery.sparkline.js
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\Miscellanies\WinSCP.exe
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\SRC\charts\template.html
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\SRC\charts\run.bat
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\SRC\solution.zip
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\Ionic.Zip.dll
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\WinSCPnet.dll
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\YahooStockAPI.exe
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\bin\Debug\YahooStockAPI.pdb
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\LinuxConnector.csprojResolveAssemblyReference.cache
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AnalyzeConfiguration.resources
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GetItemForm.resources
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OutputForm.resources
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UploadFiles.resources
+C:\Users\Yaniv\Desktop\StockAnalyzer -Windows\WindowsFormsApplication2\obj\Debug\LinuxConnector.csproj.GenerateResource.Cache

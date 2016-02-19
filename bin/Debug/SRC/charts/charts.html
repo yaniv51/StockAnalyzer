@@ -1,0 +1,94 @@
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.sparkline.js"></script>
+
+    <script src="https://code.highcharts.com/stock/highstock.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
+
+    <script type="text/javascript">
+
+        var seriesOptions = [];
+        var seriesCounter = 0;
+        var stocks = [];
+
+            function createChart(k) {
+                $('#container'+k).highcharts('StockChart', {
+
+
+                    rangeSelector: {
+                        selected: 4
+                    },
+
+                    yAxis: {
+                        labels: {
+                            formatter: function () {
+                                //return (this.value > 0 ? ' + ' : '') + this.value + '%';
+                            }
+                        },
+                        plotLines: [{
+                            value: 0,
+                            width: 2,
+                            color: 'silver'
+                        }]
+                    },
+
+                    plotOptions: {
+                        series: {
+                            compare: 'percent'
+                        }
+                    },
+
+                    tooltip: {
+                        pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b> ({point.change}%)<br/>',
+                        valueDecimals: 2
+                    },
+
+                    series: seriesOptions
+                });
+            }
+
+        var counter=0;
+        $.getJSON('stocks.json',function (data) {
+            console.log(data);
+            var clusters=data;
+            for(var i=0;i<clusters.length;i++) {
+                    for(var k=0;k<clusters[i].length;k++)
+                    {
+                        var stocks=clusters[i];
+                        seriesOptions[counter] = {
+                            name: stocks[k].name,
+                            data: stocks[k].data
+                        };
+                        counter++;
+
+                    }
+
+                $('#target').append($('<div/>', { id: 'container' + i}));
+                $("#container"+i).append("");
+
+                createChart(i);
+                seriesOptions=[];
+                counter=0;
+
+            }
+
+
+            });
+
+
+
+    </script>
+</head>
+
+<body>
+
+    <div id="target" style="height: 300px; min-width: 200px">
+
+
+
+    </div>
+
+
+</body>
+</html>

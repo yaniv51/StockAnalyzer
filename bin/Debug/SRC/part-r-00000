@@ -1,0 +1,7 @@
+KMeansCanopyCenter [canopyCenter=CanopyCenter [stock: ACET[]],kCenter + KMeansCenter [stock: ABIO]]	ACHC,AGIIL,AEHR,ACSF,AGNC,AGNCB,ACAS,ABDC
+KMeansCanopyCenter [canopyCenter=CanopyCenter [stock: ACET[]],kCenter + KMeansCenter [stock: AGIO]]	ABEO,ADMA,ADMP,AAAP,AAON,AAVL,ACHN,ACOR,ACPW,AFMD,AGEN,ACTX,AEGN,ABIO,ABTX,ABUS,ACAD,ACAT,ACBI,AGIO,AGND,ADSK,ADUS
+KMeansCanopyCenter [canopyCenter=CanopyCenter [stock: ACET[]],kCenter + KMeansCenter [stock: ACRS]]	ADRA,ADRO,ADXS,ACRS,ACRX,ACST,ACTG,AAWW,ABCD,AFH,ACIW,AEGR,AEMD,AERI,AEZS
+KMeansCanopyCenter [canopyCenter=CanopyCenter [stock: ACET[]],kCenter + KMeansCenter [stock: ACWX]]	ABMD,ABTL,ABY,AFOP,AFSI,AGII,AAL,AAOI,AAPL,AAXJ,ADP,ADRD,ADRE,ADRU,ACTA,ACWI,ACWX,ACXM,ADBE,ADI,ABCB,ABCO,ABCW,AEIS,ACGL,ACLS
+KMeansCanopyCenter [canopyCenter=CanopyCenter [stock: ACET[]],kCenter + KMeansCenter [stock: ACET]]	AGNCP,ADAT,ACTS,ACNB,ABAC,ABGB,ABIL,AEPI,AEY
+KMeansCanopyCenter [canopyCenter=CanopyCenter [stock: ACET[]],kCenter + KMeansCenter [stock: AEGN]]	ACUR,AAME,AGRX,ADAP,ADHD,ADMS,AGFS,ABAX
+KMeansCanopyCenter [canopyCenter=CanopyCenter [stock: ACET[]],kCenter + KMeansCenter [stock: ABAC]]	ACFC,AETI,AAPC,ADTN,AFAM,AFFX

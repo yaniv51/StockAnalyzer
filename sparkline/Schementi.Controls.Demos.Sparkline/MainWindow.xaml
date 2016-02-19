@@ -1,0 +1,8 @@
+﻿<Window x:Class="Schementi.Controls.Demos.Sparkline.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:schementi="clr-namespace:Schementi.Controls;assembly=Schementi.Controls.Sparkline"
+        xmlns:Sparkline="clr-namespace:Schementi.Controls.Demos.Sparkline" 
+        Title="Sparkline Demo (Jimmy Schementi)" Height="300" Width="600">
+    <Sparkline:MainPage/>
+</Window>
